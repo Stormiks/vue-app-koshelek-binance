@@ -13,7 +13,7 @@ module.exports = {
     }
   },
   assetsDir: 'assets',
-  publicPath: process.env.NODE_ENV === 'production' ? '/vue-spa-koshelek/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/vue-app-koshelek-binance/' : '/',
   outputDir: 'dist',
   lintOnSave: process.env.NODE_ENV !== 'production',
   // runtimeCompiler: true,
